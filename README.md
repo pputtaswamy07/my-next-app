@@ -22,7 +22,7 @@ This project demonstrates how to build and run a Next.js application using Docke
 git clone https://github.com/your-username/nextjs-docker-app.git
 cd nextjs-docker-app
 
-## Build the Docker Image
+### Build the Docker Image
 ```bash
 docker build -t my-next-app .
 
